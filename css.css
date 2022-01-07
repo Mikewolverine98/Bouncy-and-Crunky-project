@@ -1,0 +1,666 @@
+header{
+
+  background-image: url("https://th.bing.com/th/id/R.7e00522a43c0c42a00fda322a142a579?rik=jQAxrBPohsPU7A&pid=ImgRaw&r=0");
+
+  min-height: 800px;
+   /* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+/* Needed to position the navbar */
+position: relative;
+}
+
+
+/* Position the navbar container inside the image */
+.firstnav {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+  margin-left: 45rem;
+}
+
+/* The navbar */
+.nav {
+  overflow: hidden;
+
+}
+
+/* Navbar links */
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+
+
+
+.my-centered{
+  
+  margin-top: 250px;
+
+  color: white;
+  font-size: 60px;
+  font-family: arial;	
+
+    text-align: center;
+}
+
+
+.my-centeredlorem{
+ 
+  margin-top: 30px;
+
+  color: white;
+
+  font-family: arial;	
+
+    text-align: center;
+  }
+
+
+
+  .btn-2{
+width: 185px;
+height: 42px;
+margin-left: 170px;
+background-color:#df4759;
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-top-right-radius: 5px;
+  }
+
+
+  .buttonsec{
+    margin-top: 30px;
+
+
+  }
+
+
+
+  .buttonfirst{
+    margin-left: -220px;
+    margin-top: -42px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .secwallpaper{
+    background-color: rgb(43, 42, 42);
+    border: 1px solid rgb(43, 42, 42);
+    padding-bottom: 180px;
+
+
+  }
+
+
+
+
+
+
+
+
+
+  .my-colourbrand{
+    color: white;
+margin-top: 100px;
+font-size: 20px;
+  }
+
+
+
+
+
+  .my-colourbrandtext{
+    color: white;
+    margin-top: 20px;
+
+  }
+
+
+
+
+  .my-colourbrandsectext{
+    color: white;
+    margin-top: 20px;
+
+  }
+
+
+
+
+
+
+
+
+
+  .firstpic{
+    height: 170px;
+    width: 300px;
+    margin-left: 260px;
+    margin-top: -20px;
+  }
+  
+
+
+  .secpic{
+    height: 200px;
+    width: 220px;
+    margin-left: 950px;
+    margin-top: -330px;
+  }
+
+
+
+  .thirdpic{
+
+    height: 250px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -80px;
+  }
+
+
+
+
+
+  .fourthpic{
+
+    height: 215px;
+    width: 215px;
+    margin-left: 350px;
+    margin-top: -280px;
+  }
+
+
+
+
+
+
+
+
+
+  .fab{
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+
+  }
+
+
+
+
+
+
+
+
+
+  .thirdwallpaper{
+    background-color: rgb(36, 35, 35);
+    padding-bottom: 100px;
+    
+  }
+
+
+
+
+
+
+
+
+
+
+  .my-concertstexts{
+    color: white;
+  }
+
+.my-goodvirbationstext{
+ margin-left:110px;
+ margin-top: -70px;
+}
+
+
+
+
+.my-rollingstonetext{
+margin-left: 110px;
+margin-top: -200px;
+}
+
+
+
+
+
+.my-stoptheraintext{
+  margin-left: 110px;
+  margin-top: -70px;
+}
+
+
+
+.my-littleredcorverttetext{
+  margin-left: 680px;
+  margin-top: -70px;
+}
+
+
+
+.my-prideinthenameoftext{
+  margin-left: 680px;
+  margin-top: -200px;
+}
+
+
+.my-tracksofmytearstext{
+  margin-left: 680px;
+  margin-top: -330px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  .my-ourconcerts{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+  }
+
+
+
+  .gdvibrations{
+   height: 70px;
+   width: 70px;
+   margin-top: 50px;
+  }
+
+
+  .redcorvette{
+    height: 70px;
+    width: 70px;
+    margin-top: 50px;
+
+  }
+
+
+
+
+
+
+
+  .likearollingstone{
+
+    height: 70px;
+    width: 70px;
+    margin-top: 50px
+  }
+
+
+
+
+  .pride{
+    height: 70px;
+    width: 70px;
+    margin-top: 50px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .tears{
+    height: 70px;
+    width: 70px;
+    margin-top: 50px
+
+  }
+
+
+
+
+
+  .rain{
+
+    height: 70px;
+    width: 70px;
+    margin-top: 50px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .vibrationsborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+    
+  }
+
+
+  .likearollingstoneborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+  }
+
+  .rainborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+
+  }
+
+
+
+
+
+
+
+  .prideborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+  }
+
+
+  .tearsborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+  }
+
+  .redcorvetteborder{
+    border-top: 1px solid white;
+
+    margin-top: 10px;
+  }
+
+
+
+
+
+
+  .my-topsongscols{
+    border: 1px solid white;
+    margin-top: 100px;
+  }
+
+
+
+
+
+
+
+
+
+ .my-bookingborder{
+border: 1px solid gray;
+background-color: gray;
+padding-bottom: 200px;
+padding-top: 200px;
+width: 674px;
+margin-top: 100px;
+margin-left: -104px;
+
+  }
+
+
+
+  .my-newsletterborder{
+    border: 1px solid 	#df4759;
+    background-color: #df4759;
+    padding-bottom: 200px;
+    padding-top: 200px;
+    width: 674px;
+margin-top: -402px;
+margin-left: 570px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  .my-bookingform{
+    color: #ddd;
+margin-top: -323px;
+margin-left: 15px;
+
+
+  }
+
+
+h1{
+  font-size: 20px;
+}
+
+
+h2{
+  font-size: 13px; 
+
+}
+
+
+
+.form-control{
+  margin-top: 15px;
+  width: 416px;
+ 
+}
+
+
+
+  .btn-3{
+   margin-left: 430px;
+   margin-top: -130px;
+  }
+
+
+.news{
+  margin-left: 50px;
+}
+.book{
+  margin-left: -27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my-topsongs{
+  color:white;
+  margin-top: 8rem;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+.my-topsongsrows{
+  border: 1px solid white;
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+
+}
+
+.my-topsongsrowssec{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.my-topsongsrowsthird{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+.my-topsongsrowsfourth{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+.my-topsongsrowsfifth{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.my-topsongsrowssixth{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+.my-topsongsrowssaventh{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+
+
+.my-topsongsrowseith{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+.my-topsongsrowsnineth{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+
+.my-topsongsrowsten{
+  border: 1px solid white;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.liverpool{
+  height:60px;
+margin-top: -20px;
+
+}
+
+.my-col{
+  color: white;
+}
+
+
+
+
+
+.fourthwallpaper{
+  background-color: black;
+  padding-bottom: 20px;
+
+}
+
+
+
+
+
+
+.my-copyrights{
+  margin-left: 905px;
+  margin-top:-30px;
+}
